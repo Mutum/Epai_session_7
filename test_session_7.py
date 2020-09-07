@@ -7,7 +7,7 @@ Created on Mon Sep  7 19:06:54 2020
 
 
 import os
-os.chdir("D:\Courses\EPAI\session_7")
+#os.chdir("D:\Courses\EPAI\session_7")
 
 import re
 import inspect
